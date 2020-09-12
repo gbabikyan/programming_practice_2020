@@ -1,2 +1,2 @@
 print("Hello World!")
-print("Master branch")
+print("New branch")
